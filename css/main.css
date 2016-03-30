@@ -227,8 +227,8 @@
   padding: 0;
 }
 
-.social-icons ul li a:hover .fa-facebook {
-  color:#0884d5;
+.social-icons ul li a:hover .fa-github {
+  color:#201F1F;
 }
 
 .social-icons ul li a:hover .fa-twitter {
@@ -237,10 +237,6 @@
 
 .social-icons ul li a:hover .fa-google-plus {
   color:#A22523;
-}
-
-.social-icons ul li a:hover .fa-dribbble {
-  color:#E94989;
 }
 
 .social-icons ul li a:hover .fa-linkedin {
