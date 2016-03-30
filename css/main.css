@@ -97,6 +97,10 @@
     right: 0;
   }
 
+  .contact-box{
+    text-align: center;
+  }
+
 
   .btn-common:hover,
   .btn-common:focus{
